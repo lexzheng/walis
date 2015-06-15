@@ -1,0 +1,8 @@
+include README.md requirements.txt dev_requirements.txt
+recursive-include walis *.py
+recursive-exclude walis .*.swp
+recursive-exclude walis .*.swo
+recursive-exclude venv *
+recursive-exclude dist *
+recursive-exclude build *
+recursive-exclude walis.egg-info *

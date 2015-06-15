@@ -1,0 +1,11 @@
+# Directories
+.idea/
+.git/
+
+#files
+walisconfig.py
+.python-version
+
+# cache
+.gitignore
+*.py[cod]

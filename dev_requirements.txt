@@ -1,0 +1,7 @@
+-r requirements.txt
+pytest==2.6.4
+ipython==2.3.1
+flake8==2.2.3
+Fabric==1.9.1
+git+ssh://git@github.com/eleme/deployele.git
+
